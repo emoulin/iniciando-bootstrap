@@ -1,0 +1,40 @@
+/* .navbar-collapse {
+    justify-content: flex-end;
+} */
+
+body img {
+    max-width: 100vw;
+}
+
+.imagem__carrosel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 40vh;
+}
+
+.fonte__titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor__especial {
+    color: darkred;
+}
+
+.card__largura {
+    width: 18rem;
+}
+
+.botao__cor__especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda__cor__especial {
+    border-color: darkred;
+}
+
+.card__posicao__imagem {
+    object-fit: cover;
+    /* object-position: 0 80%; */
+    height: 200px;
+}
